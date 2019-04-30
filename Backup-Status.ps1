@@ -10,7 +10,7 @@
 #>
 
 #Teams webhook url
-$uri = "[INSERT WEBHOOK URL]"
+$uri = "https://hooks.slack.com/services/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"
 
 #Image on the left hand side, here I have a regular user picture
 $ItemImage = 'https://img.icons8.com/color/1600/circled-user-male-skin-type-1-2.png'
